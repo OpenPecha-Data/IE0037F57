@@ -1,7 +1,122 @@
-id: opecha:P000795
+id: P000795
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC375
   title: 'རས་ཆུང་སྙན་བརྒྱུད་སྐོར། '
-  volume: ''
   author: ''
+  volumes:
+    db96fa50117b4f39951e9d8c8dfe8493:
+      image_group_id: I4PD2758
+      title: ''
+      volume_number: 1
+      total_pages: 558
+      base_file: v001.txt
+    fe742c4816134b528c522781ce7fb954:
+      image_group_id: I4PD2759
+      title: ''
+      volume_number: 2
+      total_pages: 456
+      base_file: v002.txt
+    e1e29a9e33af4db68e8d055d9061bc59:
+      image_group_id: I4PD2760
+      title: ''
+      volume_number: 3
+      total_pages: 406
+      base_file: v003.txt
+    93c7927779484f0ab6c5c0771dd48025:
+      image_group_id: I4PD2761
+      title: ''
+      volume_number: 4
+      total_pages: 418
+      base_file: v004.txt
+    1e16acadd41b47b8b9ef2e59c960f0d2:
+      image_group_id: I4PD2762
+      title: ''
+      volume_number: 5
+      total_pages: 390
+      base_file: v005.txt
+    531172d22b4849ab9213bc314c530557:
+      image_group_id: I4PD2763
+      title: ''
+      volume_number: 6
+      total_pages: 374
+      base_file: v006.txt
+    81617ac5dfde4e8d8aabdfedc21f0a3e:
+      image_group_id: I4PD2764
+      title: ''
+      volume_number: 7
+      total_pages: 386
+      base_file: v007.txt
+    e3e28e949e5d4b07b717e12f9a276897:
+      image_group_id: I4PD2765
+      title: ''
+      volume_number: 8
+      total_pages: 358
+      base_file: v008.txt
+    101dd797f7bf4aa28c3eff481d4c4f32:
+      image_group_id: I4PD2766
+      title: ''
+      volume_number: 9
+      total_pages: 392
+      base_file: v009.txt
+    36b41bef86bf442eb2c5c6f487b7ddc3:
+      image_group_id: I4PD2767
+      title: ''
+      volume_number: 10
+      total_pages: 384
+      base_file: v010.txt
+    805733a44d5245579553024355ebfb8f:
+      image_group_id: I4PD2768
+      title: ''
+      volume_number: 11
+      total_pages: 380
+      base_file: v011.txt
+    6033ddc2b7ff4ff6b5ecc549dcb7a9ef:
+      image_group_id: I4PD2769
+      title: ''
+      volume_number: 12
+      total_pages: 358
+      base_file: v012.txt
+    8975370402c4412e81d73ea7739c769b:
+      image_group_id: I4PD2770
+      title: ''
+      volume_number: 13
+      total_pages: 370
+      base_file: v013.txt
+    9c8a2dc0289e4ccdaf10333ecccfb652:
+      image_group_id: I4PD2771
+      title: ''
+      volume_number: 14
+      total_pages: 362
+      base_file: v014.txt
+    ed8fbe43a30c4dc0ac67e8eeee3eae67:
+      image_group_id: I4PD2772
+      title: ''
+      volume_number: 15
+      total_pages: 338
+      base_file: v015.txt
+    1a0056577df24d4c95568e7b7b247ffc:
+      image_group_id: I4PD2773
+      title: ''
+      volume_number: 16
+      total_pages: 412
+      base_file: v016.txt
+    98d8c46eea6b450f8ad5f389c84f065b:
+      image_group_id: I4PD2774
+      title: ''
+      volume_number: 17
+      total_pages: 388
+      base_file: v017.txt
+    1de7a69639284debb8f7b0ab5c9634d4:
+      image_group_id: I4PD2775
+      title: ''
+      volume_number: 18
+      total_pages: 378
+      base_file: v018.txt
+    33bca884ce6b4add812bcb674488cf9e:
+      image_group_id: I4PD2776
+      title: ''
+      volume_number: 19
+      total_pages: 400
+      base_file: v019.txt
+  
